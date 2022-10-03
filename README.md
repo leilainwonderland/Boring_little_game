@@ -1,1 +1,2 @@
-# small_games_null-in-c-
+# Boring_little_game
+
